@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- List item height -->
+    <dimen name="list_item_height">88dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+
+    <!-- Height for the list item text -->
+    <dimen name="list_item_text_height">0dp</dimen>
+    <dimen name="arrow_icon_length">24dp</dimen>
+</resources>
